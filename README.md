@@ -24,7 +24,7 @@
   3. Replace PASTE_YOUR_VIDEO_LINK_HERE below with that link.
 -->
 
-▶️ **Watch the demo video:** [PASTE_YOUR_VIDEO_LINK_HERE](PASTE_YOUR_VIDEO_LINK_HERE)
+▶️ **Watch the demo video:** [PASTE_YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1VQn5-6OrHFtqzUpheyTyGzDqNvBjNhu8/view?usp=sharing)
 
 ---
 
